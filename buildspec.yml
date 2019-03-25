@@ -3,4 +3,6 @@ phases:
   install:
     commands:
       - npm install
+      - npm i -g mocha
+      - npm i -g chai
       - npm test
