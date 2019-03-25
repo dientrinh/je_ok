@@ -3,4 +3,3 @@ phases:
   install:
     commands:
       - npm install
-      - npm test
