@@ -1,0 +1,26 @@
+{
+  "name": "je_ok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dientrinh/je_ok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dientrinh/je_ok/issues"
+  },
+  "homepage": "https://github.com/dientrinh/je_ok#readme",
+  "dependencies": {
+    "aws-sdk": "^2.427.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "serverless-http": "^1.9.1"
+  }
+}
